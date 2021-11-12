@@ -1,9 +1,8 @@
 ---
-layout : post
-title : "Axie Infinity dashboard" 
-date : 2021-11-12
-categoris : Blockchain
---- 
+title: "Axie Infinity dashboard"
+date: 2021-11-12 20:11:00 -0400
+categories: Blockchain
+---
 
 액시 인피니티 대시보드
 
